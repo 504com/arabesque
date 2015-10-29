@@ -1,0 +1,13 @@
+div#page {
+    width: 950px;
+    background-color: #F5F5F5;
+    margin: 0 auto;
+    text-align: left;
+    border-color: #ddd;
+    border-style: solid solid solid;
+    border-width: 1px 1px 1px;
+}
+div#container {
+    padding: 20px;
+
+}
