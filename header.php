@@ -10,7 +10,6 @@
     <script type="text/javascript" src="js/localscroll/jquery.scrollTo.js"></script>
     <script type="text/javascript" src="js/lancement.js"></script><!-- permet le lancement de la fonction de scroll -->
 </head>
->
 <body>
 <div id="container">
     <div class="headerzone">

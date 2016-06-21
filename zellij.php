@@ -35,7 +35,7 @@
             <li  class="last"><a href="contact.php">Contact nous</a></li>
         </ul>
     </div>
-    <div class="banner"><img src="images/insidebanner.jpg" alt="" /></div>
+    <div class="banner"><img src="images/banner.jpg" alt="" /></div>
     <div  id="zellij" class="workzone">
         <div>
             <h1>L'Art de <span class="redheading">Zellij</span></h1>
