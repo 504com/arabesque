@@ -6,23 +6,24 @@
             <h1  id="metier" >M&eacute;tiers<span class="redheading"> pour vous</span></h1>
           </div>
           <div>Vous souhaitez :
-            <ul>
+            <ul style="line-height: 1.5;">
               <li>R&eacute;nover vos parties communes.</li>
               <li>R&eacute;aliser vos travaux de peinture ext&eacute;rieurs ou int&eacute;rieurs</li>
             </ul>
           </div>
           <div>
             Ou plut&ocirc;t vous cherchez :
-            <ul>
+            <ul style="line-height: 1.5;">
               <li>De l&acute;architecture int&eacute;rieur et design d&acute;espace</li>
               <li>De la peinture int&eacute;rieure d&eacute;corative.</li>
               <li>Du &laquo; <strong>Tadelakt</strong> &raquo; r&eacute;alis&eacute; avec la chaux de Marrakech. </li>
               <li>Du &laquo; <strong>Zellij</strong> &raquo; traditionnel (<i>mosa&iuml;que</i>) en provenance du maroc. </li>
             </ul>
           </div>
-          <div style="padding-top:10px;">
+          <div style="padding-top:15px;">
             Notre entreprise effectue une &eacute;tude approfondie et un diagnostic pr&eacute;cis pour chaque projet, elle s&acute;engage &agrave; r&eacute;alis&eacute;e une &eacute;tude pr&eacute;cise des travaux &agrave; effectuer en fonction des envies sp&eacute;cifiques de sa client&egrave;le.<br />
           </div>
+            <br />
             <div class="servicecolumnzone">
               <div class="servicecolumn1">
                 <div>

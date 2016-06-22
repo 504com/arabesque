@@ -7,7 +7,8 @@
           </div>
           <div style="margin-bottom:10px;">
             <div>
-                <strong>Pour nous contacter par email.</strong><br />
+                <strong>Pour nous contacter par e-mail, utilisez notre formulaire de contact en ligne.</strong><br />
+                Nous vous contacerons apr&egrave;s r&eacute;ception de votre message(24h).
             </div>
             <div> <br />
               <h4>Contact Form:</h4>
@@ -15,7 +16,7 @@
                 <table width="97%">
                   <tr>
                     <td width="145" align="left" valign="top" class="body" id="Company"><strong>
-                      <label for="Company">Société:</label>
+                      <label for="Company">Soci&eacute;t&eacute;:</label>
                       </strong></td>
                     <td width="280" align="left" valign="top"><input name="Company" type="text" size="40" /></td>
                   </tr>
@@ -33,7 +34,7 @@
                   </tr>
                   <tr>
                     <td align="left" valign="top" class="body" id="Phone"><strong>
-                      <label for="Phone">N° téléphone:</label>
+                      <label for="Phone">N&deg; t&eacute;l&eacute;phone:</label>
                       </strong></td>
                     <td align="left" valign="top"><input name="Phone" type="text" size="40" /></td>
                   </tr>
