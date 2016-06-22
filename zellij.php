@@ -41,7 +41,7 @@
             <h1>L'Art de <span class="redheading">Zellij</span></h1>
         </div>
         <div>
-                <span class="firstletter">L</span>e <strong>Zellige</strong>, <strong>zillij</strong> ou <strong>zelliges</strong>est le carrelage en terre cuite recouverte d'&eacute;mail sous la forme de jetons en pl&acirc;tre. Il est l'une des principales caract&eacute;ristiques de l'architecture <strong>marocaine</strong>.
+                <span class="firstletter">L</span>e <strong>Zellige</strong>, <strong>zillij</strong> ou <strong>zelliges</strong> est le carrelage en terre cuite recouverte d'&eacute;mail sous la forme de jetons en pl&acirc;tre. Il est l'une des principales caract&eacute;ristiques de l'architecture <strong>marocaine</strong>.
                 Il se compose de mosa&iuml;ques g&eacute;om&eacute;triques en c&eacute;ramique utilis&eacute;es principalement comme un ornement pour les <strong>murs</strong>, les <strong>plafonds</strong>, <strong>fontaines</strong>, <strong>dallages</strong>, des <strong>piscines</strong>, des <strong>tableaux</strong>, etc.
         </div>
         <br/>
@@ -57,7 +57,7 @@
 
         <div class="imgRightWithoutLeftZone" ><img al src="images/zellij/zellige-accueil.jpg"   /></div>
         <div>
-            <span class="firstletter">L</span>es motifs manifest&eacute;s dans les mosa&iuml;ques est actuellement un int&eacute;r&ecirc;t dans la <strong>recherche universitaire en math&eacute;matiques</strong>.
+            <span class="firstletter">L</span>es motifs manifest&eacute;s dans les mosa&iuml;ques est actuellement un int&eacute;r&ecirc;t dans la <strong>recherche universitaire en math&eacute;matiques</strong>.<br/>
             Des recherches consid&eacute;rables dans la mod&eacute;lisation de ces mod&egrave;les a eu lieu.
             Ces &eacute;tudes n&eacute;cessitent une expertise non seulement dans les domaines des math&eacute;matiques, art et histoire de l'art, mais aussi de l'informatique, la mod&eacute;lisation informatique et d'ing&eacute;nierie ainsi, comme cela a &eacute;t&eacute; fait dans la <strong>mosqu&eacute;e Hassan II</strong>.
 
