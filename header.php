@@ -31,13 +31,13 @@
         <div class="clear"></div>
     </div>
     <div class="clear"></div>
-    <div class="banner"><img src="images/banner.jpg" alt="" /></div>
+    <div class="banner"><img src="images/banner_02.jpg" alt="" /></div>
     <div class="clear"></div>
     <div class="workzone">
         <div  class="workzone-left">
             <div>
                 <div>
-                    <h1>Notre <span class="redheading">Actualit&eacute;</span></h1>
+                    <h1>Nos <span class="redheading">Articles</span></h1>
                 </div>
                 <div>
                     <div class="grayboldtxt">Patrimoine archi | <span class="bluelighttxt">22.10.2016</span></div>
