@@ -3,7 +3,6 @@
 body {
 	font:11px Arial, Helvetica, sans-seri;
 	color:#565656;
-    background: url(../images/fond/fond_1.png);
     margin:0px;
 	padding:0px;
 }
@@ -13,6 +12,18 @@ body {
 	margin:0px auto;
 }
 
+#main:before {
+	background: url(../images/fond/fond_1.png) repeat;
+	content: "";
+	top: 5px;
+	left: -10px;
+	bottom: 0;
+	right: 0;
+	position: absolute;
+	z-index: -1;
+	opacity: 0.2;
+
+}
 .headerzone {
 	height:120px;float:left; width:auto;
 }

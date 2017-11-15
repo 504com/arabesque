@@ -11,6 +11,7 @@
     <script type="text/javascript" src="js/lancement.js"></script><!-- permet le lancement de la fonction de scroll -->
 </head>
 <body>
+<div id="main">
 <div id="container">
     <div class="headerzone">
        <div class="logozone"> <a href="index.php"><img src="images/logo.jpg" alt="" border="0" /></a> </div>
