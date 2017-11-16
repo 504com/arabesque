@@ -1,42 +1,5 @@
-<!doctype html>
-<html xmlns="http://www.w3.org/1999/xhtml" xmlns="http://www.w3.org/1999/html">
-<head>
-    <title>Architect Group</title>
-    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-    <link href="stylesheet/style.css" rel="stylesheet" type="text/css" />
-    <link href="stylesheet/gallery-photo.css" rel="stylesheet" type="text/css" />
-
-    <script type="text/javascript" src="js/inc/jquery.min.js"></script>
-    <script type="text/javascript" src="js/inc/mbGallery.js"></script>
-
-    <script type="text/javascript">
-        $(function(){
-            if (self.location.href == top.location.href){
-            $("body").on("contextmenu",".galleryScreen",function(){return false;})
-        });
-    </script>
-</head>
-<body>
-<div id="container">
-    <div class="headerzone">
-        <div class="logozone"> <a href="#"><img src="images/logo.jpg" alt="" border="0" /></a> </div>
-        <div class="clear"></div>
-    </div>
-    <div class="clear"></div>
-    <div class="mainmenu">
-        <ul>
-            <li><a href="presentation.php">Pr&eacute;sentation</a></li>
-            <li><a href="services.php#metier">M&eacute;tiers</a></li>
-            <li><a href="clients.php">Clients</a></li>
-            <li><a href="services.php">Services</a></li>
-            <li><a href="support.php">Support</a></li>
-            <li><a href="presentation.php">Qualifications</a></li>
-            <li><a href="contact.php">Devis</a></li>
-            <li  class="last"><a href="contact.php">Contact nous</a></li>
-        </ul>
-    </div>
-    <div class="banner"><img src="images/banner.jpg" alt="" /></div>
-    <div  id="tadelakt"  class="workzone">
+<?php include "header2.php" ?>
+    <div  id="tadelakt">
         <div>
             <h1>L'Art de <span class="redheading">Tadelakt</span></h1>
         </div>
@@ -71,7 +34,7 @@
             Nous utilisons la chaux de la r&eacute;gion de <strong>Marrakech</strong> procurant ainsi les propri&eacute;t&eacute;s d&acute;&eacute;tanch&eacute;it&eacute; et de profondeur &agrave; cet enduit tr&egrave;s particulier.
             Sa rusticit&eacute; de fabrication, sa min&eacute;ralit&eacute; impure, concourent &agrave; donner au <strong>Tadelakt</strong> sa beaut&eacute;, son toucher et son imperm&eacute;abilit&eacute;.
         </div>
-        <br/><br/>
+        <br/><br/><br/><br/><br/>
         <div>
             <div class="wrapper">
 
@@ -158,9 +121,10 @@
 
             </div>
         </div>
+        <br/><br/><br/><br/>
         <table align="left" border="0" width="999">
             <tr>
-                <td width="90%"><h3>D&eacute;couvrez nos m&eacute;tiers</h3></td>
+                <td width="85%"><h3>D&eacute;couvrez nos m&eacute;tiers</h3></td>
                 <td><div class="more" align="left"><a href="services.php#metier">nos m&eacute;tiers</a></div></td>
             </tr>
         </table>

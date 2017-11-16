@@ -3,29 +3,33 @@
 body {
 	font:11px Arial, Helvetica, sans-seri;
 	color:#565656;
-    margin:0px;
+	margin:0px;
 	padding:0px;
+
 }
 
 #container {
-	width:950px;
-	margin:0px auto;
+	width:951px;
+	margin:5px auto;
+	/* background-color: #FFFAFA; */
+	background-color: #ffffff;
+	border: double;
+	border-color: #aaaaaa;
 }
 
-#main:before {
+#main:after {
 	background: url(../images/fond/fond_1.png) repeat;
 	content: "";
-	top: 5px;
-	left: -10px;
-	bottom: 0;
-	right: 0;
+	top: 0px;
+	left: 0px;
+	bottom: 0px;
+	right: 0px;
 	position: absolute;
 	z-index: -1;
-	opacity: 0.2;
-
+	opacity: 0.3;
 }
 .headerzone {
-	height:120px;float:left; width:auto;
+	height:0px;float:left; width:auto;
 }
 
 .logozone {
@@ -50,7 +54,7 @@ body {
 	margin:0px 0px 20px 20px;
 	float:right; width:auto;
 	border:1px solid #DFE0D8;
-	padding:2px;
+	padding:1px;
 	box-shadow:  2px 2px 6px #aaa;
 }
 
@@ -89,13 +93,20 @@ body {
 
 
 .banner {
-	height:198px; 	background:url(../images/banner.jpg) left top no-repeat;
-	float:left;
+	height:232px;
+	border-bottom:1px solid #E7E7E7;
+	text-align: center;
 }
 
 .workzone {
 	width:950px;float:left;
 	padding:35px 0px 40px 0px;
+	text-align:justify;
+}
+
+.workzone2 {
+	width:930px;float:left;
+	padding:30px 10px 30px 10px;
 	text-align:justify;
 }
 
@@ -108,7 +119,8 @@ body {
 .workzone-right {
 	width:694px;
 	float:left;
-	margin-left:28px;
+	margin-left:20px;
+	margin-right:0px;
 }
 
 .welcomezone {
@@ -176,7 +188,7 @@ h1 {
 	font:18px Arial, Helvetica, sans-serif;
 	color:#185FA1;
 	border-bottom:1px solid #E7E7E7;
-	margin-top: 0px3;
+	margin-top: 0px;
 	margin-right: 0px;
 	margin-bottom: 16px;
 	margin-left: 0px;
@@ -230,24 +242,26 @@ a:hover {
 	text-decoration:none;
 }
 
-.mainmenu {float:left; width:950px; height:40px;
-	padding:0px 0px 2px 0px;
+.mainmenu {
+	float:left; width:950px; height:32px;
+	padding:0px 0px 0px 0px;
 	
 }
 
-.mainmenu ul {float:left; width:950px;
+.mainmenu ul {
+	float:left; width:950px;
 	margin:0px;
-	padding:10px 0px 0px 0px;
+	padding:1px 0px 0px 0px;
 }
 
 .mainmenu li {
-	display:block; float:left; width:119px;
+	display:block; float:left; width:160px;
 	background:url(../images/menubg.jpg) left top repeat-x;
 	list-style:none; text-align:center;
-	padding:7px 0px 0px 0px; height:23px;
-	margin:0px 1px 0px 0px;
+	padding: 7px 0px 0px 0px; height:203px;
+	margin: 0px 0px 0px 1px;
 }
-.mainmenu li.last{width:109px;}
+.mainmenu li.last{width:144px;}
 .mainmenu li a{
 	font-size:12px;
 	color:#ffffff;
@@ -256,7 +270,7 @@ a:hover {
 }
 
 .mainmenu li a:hover {
-	color:#ffffff;
+	color: #ebebeb;;
 	text-decoration:none;
 }
 

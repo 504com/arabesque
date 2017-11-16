@@ -5,6 +5,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
     <link href="stylesheet/style.css" rel="stylesheet" type="text/css" />
 
+
     <script src="js/jquery.js" type="text/javascript"></script><!-- Insertion de la bibliotheque jQuery -->
     <script type="text/javascript" src="js/localscroll/jquery.localscroll.js"></script>
     <script type="text/javascript" src="js/localscroll/jquery.scrollTo.js"></script>
@@ -14,7 +15,7 @@
 <div id="main">
 <div id="container">
     <div class="headerzone">
-       <div class="logozone"> <a href="index.php"><img src="images/logo.jpg" alt="" border="0" /></a> </div>
+       <div class="logozone"> <a href="#"><img src="images/logo.jpg" alt="" border="0" /></a> </div>
         <div class="clear"></div>
     </div>
     <div class="clear"></div>
@@ -22,17 +23,15 @@
         <ul>
             <li><a href="presentation.php">Pr&eacute;sentation</a></li>
             <li><a href="services.php#metier">M&eacute;tiers</a></li>
-            <li><a href="clients.php">Clients</a></li>
             <li><a href="services.php">Services</a></li>
             <li><a href="support.php">Support</a></li>
-            <li><a href="presentation.php">Qualifications</a></li>
-            <li><a href="contact.php">Devis</a></li>
+                <li><a href="contact.php">Devis</a></li>
             <li  class="last"><a href="contact.php">Contact nous</a></li>
         </ul>
         <div class="clear"></div>
     </div>
     <div class="clear"></div>
-    <div class="banner"><img src="images/banner_02.jpg" alt="" /></div>
+    <div class="banner"><img id="banner" src="images/banner_02.jpg" alt="" /></div>
     <div class="clear"></div>
     <div class="workzone">
         <div  class="workzone-left">

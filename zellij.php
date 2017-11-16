@@ -1,42 +1,5 @@
-<!doctype html>
-<html xmlns="http://www.w3.org/1999/xhtml" xmlns="http://www.w3.org/1999/html">
-<head>
-    <title>Architect Group</title>
-    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-    <link href="stylesheet/style.css" rel="stylesheet" type="text/css" />
-    <link href="stylesheet/gallery-photo.css" rel="stylesheet" type="text/css" />
-
-    <script type="text/javascript" src="js/inc/jquery.min.js"></script>
-    <script type="text/javascript" src="js/inc/mbGallery.js"></script>
-
-    <script type="text/javascript">
-        $(function(){
-            if (self.location.href == top.location.href){
-            $("body").on("contextmenu",".galleryScreen",function(){return false;})
-        });
-    </script>
-</head>
-<body>
-<div id="container">
-    <div class="headerzone">
-        <div class="logozone"> <a href="#"><img src="images/logo.jpg" alt="" border="0" /></a> </div>
-        <div class="clear"></div>
-    </div>
-    <div class="clear"></div>
-    <div class="mainmenu">
-        <ul>
-            <li><a href="presentation.php">Pr&eacute;sentation</a></li>
-            <li><a href="services.php#metier">M&eacute;tiers</a></li>
-            <li><a href="clients.php">Clients</a></li>
-            <li><a href="services.php">Services</a></li>
-            <li><a href="support.php">Support</a></li>
-            <li><a href="presentation.php">Qualifications</a></li>
-            <li><a href="contact.php">Devis</a></li>
-            <li  class="last"><a href="contact.php">Contact nous</a></li>
-        </ul>
-    </div>
-    <div class="banner"><img src="images/banner.jpg" alt="" /></div>
-    <div  id="zellij" class="workzone">
+<?php include "header2.php" ?>
+    <div  id="zellij">
         <div>
             <h1>L'Art de <span class="redheading">Zellij</span></h1>
         </div>
@@ -64,10 +27,10 @@
         </div>
 
         <div class="imgCenterWithoutLeftZone" ><img al src="images/zellij/zellige-accueil_04.jpg"   /></div>
-        <br/><br/>
+        <br/><br/><br/>
         <div>
             <div class="wrapper">
-                <table align="left" border="0" width="550">
+                <table align="left" border="0" width="500">
                     <tr>
                         <td rowspan="2" align="left"><h4>D&eacute;couvrez la gallery Zellij :</h4></td>
                         <td class="cell"><a href="#" onclick="$('#g1').mbGallery({maskBgnd:'#ccc',minWidth: 30, minHeight: 30, overlayOpacity:.9,startFrom: 1,addRaster:true, printOutThumbs:false,galleryTitle:'Salles de bain'});">Salles de bain</a></td>
@@ -79,10 +42,9 @@
                         <td class="cell"><a href="#" onclick="$('#g3').mbGallery({maskBgnd:'#ccc',minWidth: 30, minHeight: 30, overlayOpacity:.9,startFrom: 1,addRaster:true, printOutThumbs:false,galleryTitle:'Tables D&eacute;co'});">Tables D&eacute;co</a></td>
                     </tr>
                 </table>
-                <br/><br/><br/> <br/><br/><br/> <br/><br/><br/>
                 <table align="left" border="0" width="999">
                     <tr>
-                     <td width="88%"><h3>D&eacute;couvrez nos m&eacute;tiers</h3></td>
+                     <td width="85%"><h3>D&eacute;couvrez nos m&eacute;tiers</h3></td>
                      <td><div class="more" align="left"><a href="services.php#metier">nos m&eacute;tiers</a></div></td>
                     </tr>
                 </table>
