@@ -23,15 +23,13 @@
         <ul>
             <li><a href="presentation.php#presentation">Pr&eacute;sentation</a></li>
             <li><a href="services.php#metier">M&eacute;tiers</a></li>
-            <li><a href="services.php#services">Services</a></li>
-            <li><a href="support.php#support">Support</a></li>
-            <li><a href="contact.php#contact">Devis</a></li>
-            <li  class="last"><a href="contact.php#contact">Contact nous</a></li>
+            <li><a href="services.php#metier">Services</a></li>
+            <li  class="last"><a href="contact.php#contact">Devis & Contact</a></li>
         </ul>
         <div class="clear"></div>
     </div>
     <div class="clear"></div>
-    <div class="banner"><img id="banner" src="images/banner_02.jpg" alt="" /></div>
+    <div class="banner"><img id="banner" src="images/banneppr_03.jpg" alt="" /></div>
     <div class="clear"></div>
     <div class="workzone">
         <div  class="workzone-left">

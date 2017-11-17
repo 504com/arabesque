@@ -3,6 +3,7 @@
 body {
 	font:11px Arial, Helvetica, sans-seri;
 	color:#565656;
+	background:#F5F5F5 url(../images/bg1.png) left top repeat-x;
 	margin:0px;
 	padding:0px;
 
@@ -10,7 +11,7 @@ body {
 
 #container {
 	width:951px;
-	margin:5px auto;
+	margin:64px auto;
 	/* background-color: #FFFAFA; */
 	background-color: #ffffff;
 	border: double;
@@ -20,9 +21,9 @@ body {
 #main:after {
 	background: url(../images/fond/fond_1.png) repeat;
 	content: "";
-	top: 0px;
+	top: 400px;
 	left: 0px;
-	bottom: 0px;
+	bottom: -330px;
 	right: 0px;
 	position: absolute;
 	z-index: -1;
@@ -34,7 +35,7 @@ body {
 
 .logozone {
 	margin:0px 0px 0px 0px;
-	padding:28px 0px 0px 29px;float:left; width:auto;
+	padding:28px 0px 0px 1px;float:left; width:auto;
 }
 
 .firstletter {
@@ -255,13 +256,13 @@ a:hover {
 }
 
 .mainmenu li {
-	display:block; float:left; width:160px;
+	display:block; float:left; width:231px;
 	background:url(../images/menubg.jpg) left top repeat-x;
 	list-style:none; text-align:center;
 	padding: 7px 0px 0px 0px; height:203px;
 	margin: 0px 0px 0px 1px;
 }
-.mainmenu li.last{width:144px;}
+.mainmenu li.last{width:253px;}
 .mainmenu li a{
 	font-size:12px;
 	color:#ffffff;

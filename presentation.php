@@ -25,7 +25,7 @@
                   <img  src="img/tadelakte_metier.jpg" alt="" width="65" height="65" class="abouticon" />
                   Le tadelakt est l&acute;enduit traditionnel par excellence depuis des g&eacute;n&eacute;rations. Aujourd&acute;hui ce rev&ecirc;tement mural est plus tendance que jamais. Le m&eacute;lange et la pose d&acute;un enduit tel le tadelakt demande un vrai savoir-faire.
                 </div>
-                <div align="right"><img src="images/arrow.png" alt="" width="16" height="16" border="0"  /> <a href="tadelakt.php#tadelakt">Tadelakt...</a></div>
+                <div align="right"><img src="images/arrow.png" alt="" width="16" height="16" border="0"  /> <a href="tadelakt.php#cible">Tadelakt...</a></div>
                 <div class="clear"></div>
               </div>
               <div class="servicecolumn2">
@@ -34,7 +34,7 @@
                   <img src="img/zellig_metier.jpg" alt="" width="65" height="65" class="abouticon" />
                   Le Zellij est la forme d&acute;art la plus typiquement marocaine. Il fait appel &agrave; la technique forte bien assimil&eacute;e de la terre cuite &eacute;maill&eacute;e et s&acute;inscrit dans l&acute;architecture des palais et des monuments..
                 </div>
-                <div align="right"><img src="images/arrow.png" alt="" width="16" height="16" border="0"  /> <a href="zellij.php#zellij">Zellij...</a></div>
+                <div align="right"><img src="images/arrow.png" alt="" width="16" height="16" border="0"  /> <a href="zellij.php#cible">Zellij...</a></div>
                 <div class="clear"></div>
               </div>
               <div class="clear"></div>

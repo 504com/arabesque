@@ -1,5 +1,5 @@
 <?php include "header2.php" ?>
-    <div  id="tadelakt">
+    <div>
         <div>
             <h1>L'Art de <span class="redheading">Tadelakt</span></h1>
         </div>
