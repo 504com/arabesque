@@ -1,5 +1,5 @@
 <?php include "header.php" ?>
-    <div class="workzone-right">
+    <div id="support" class="workzone-right">
       <div>
         <div>
           <div>

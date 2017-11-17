@@ -21,12 +21,12 @@
     <div class="clear"></div>
     <div class="mainmenu">
         <ul>
-            <li><a href="presentation.php">Pr&eacute;sentation</a></li>
+            <li><a href="presentation.php#presentation">Pr&eacute;sentation</a></li>
             <li><a href="services.php#metier">M&eacute;tiers</a></li>
-            <li><a href="services.php">Services</a></li>
-            <li><a href="support.php">Support</a></li>
-                <li><a href="contact.php">Devis</a></li>
-            <li  class="last"><a href="contact.php">Contact nous</a></li>
+            <li><a href="services.php#services">Services</a></li>
+            <li><a href="support.php#support">Support</a></li>
+            <li><a href="contact.php#contact">Devis</a></li>
+            <li  class="last"><a href="contact.php#contact">Contact nous</a></li>
         </ul>
         <div class="clear"></div>
     </div>
