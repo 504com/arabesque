@@ -29,7 +29,7 @@
         <div class="clear"></div>
     </div>
     <div class="clear"></div>
-    <div class="banner"><img id="banner" src="images/banneppr_03.jpg" alt="" /></div>
+    <div class="banner"><img id="banner" src="images/banner_02.jpg" alt="" /></div>
     <div class="clear"></div>
     <div class="workzone">
         <div  class="workzone-left">
