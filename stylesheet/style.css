@@ -21,9 +21,9 @@ body {
 #main:after {
 	background: url(../images/fond/fond_1.png) repeat;
 	content: "";
-	top: 400px;
+	top: 0px;
 	left: 0px;
-	bottom: -330px;
+	bottom: -400px;
 	right: 0px;
 	position: absolute;
 	z-index: -1;
