@@ -143,4 +143,5 @@
                 <td><div class="more" align="left"><a href="services.php#metier">nos m&eacute;tiers</a></div></td>
             </tr>
         </table>
+    </div>
 <?php include "footer.php" ?>

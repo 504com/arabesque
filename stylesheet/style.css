@@ -3,7 +3,7 @@
 body {
 	font:11px Arial, Helvetica, sans-seri;
 	color:#565656;
-	background:#F5F5F5 url(../images/bg1.png) left top repeat-x;
+	background:#f3f3f3 url(../images/bg1.png) left top repeat-x;
 	margin:0px;
 	padding:0px;
 
@@ -11,7 +11,7 @@ body {
 
 #container {
 	width:951px;
-	margin:64px auto;
+	margin:63px auto;
 	/* background-color: #FFFAFA; */
 	background-color: #ffffff;
 	border: double;
@@ -21,7 +21,7 @@ body {
 #main:after {
 	background: url(../images/fond/fond_1.png) repeat;
 	content: "";
-	top: 0px;
+	top: 400px;
 	left: 0px;
 	bottom: -400px;
 	right: 0px;
@@ -95,7 +95,7 @@ body {
 
 .banner {
 	height:232px;
-	border-bottom:1px solid #E7E7E7;
+	border-bottom:0px solid #E7E7E7;
 	text-align: center;
 }
 
@@ -107,7 +107,7 @@ body {
 
 .workzone2 {
 	width:930px;float:left;
-	padding:30px 10px 30px 10px;
+	padding:100px 10px 30px 10px;
 	text-align:justify;
 }
 

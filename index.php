@@ -5,7 +5,7 @@
                   <div>
                       <h1>Bienvenu &agrave;     <span class="redheading">Arabesque Group</span></h1>
                   </div>
-                  <div class="welcomezone"> <img src="images/welcome-img.jpg" alt="" class="welcomeimg" />
+                  <div class="welcomezone"> <img src="images/welcome-img.png" alt="" class="welcomeimg" />
                       La soci&eacute;t&eacute; ARABESQUE propose une offre s&acute;&eacute;tendant &agrave; l&acute;ensemble des m&eacute;tiers, de <strong>r&eacute;novation</strong> et de d&eacute;coration &agrave; base de <strong>Tadelakt</strong> et <strong>Zellij</strong>, de la <strong>peinture ext&eacute;rieure</strong> et <strong>int&eacute;rieure d&eacute;corative</strong>.<br />
                       <br />
                       Architect, ouvriers ou artisans qualifi&eacute;s, tous nos comp&eacute;tences sont mises &agrave; disposition afin de r&eacute;pondre &agrave; vos demandes et d&eacute;livrer un travail de qualit&eacute;.
