@@ -12,22 +12,22 @@
     <script type="text/javascript" src="js/lancement.js"></script><!-- permet le lancement de la fonction de scroll -->
 </head>
 <body>
+<div class="mainmenu">
+    <ul>
+        <li><a href="presentation.php#presentation">Pr&eacute;sentation</a></li>
+        <li><a href="services.php#metier">M&eacute;tiers</a></li>
+        <li><a href="services.php#metier">Services</a></li>
+        <li  class="last"><a href="contact.php#contact">Devis & Contact</a></li>
+    </ul>
+</div>
 <div id="main">
+    <div class="clear"></div>
 <div id="container">
     <div class="headerzone">
         <!--  <div class="logozone"> <a href="#"><img src="images/logo.jpg" alt="" border="0" /></a> </div>-->
           <div class="clear"></div>
       </div>
       <div class="clear"></div>
-      <div class="mainmenu">
-          <ul>
-              <li><a href="presentation.php#presentation">Pr&eacute;sentation</a></li>
-              <li><a href="services.php#metier">M&eacute;tiers</a></li>
-              <li><a href="services.php#metier">Services</a></li>
-              <li  class="last"><a href="contact.php#contact">Devis & Contact</a></li>
-          </ul>
-          <div class="clear"></div>
-      </div>
       <div class="clear"></div>
       <div class="banner"><img id="banner" src="images/banner_03.jpg" alt="" /></div>
       <div class="clear"></div>
