@@ -245,27 +245,36 @@ a:hover {
 }
 
 .mainmenu {
-	float:left; width:950px; height:32px;
+	float:left; width:950px; height:30px;
 	padding:0px 0px 0px 0px;
 }
 
 .mainmenu ul {
 	float:left; width:950px;
 	margin:0px 0px 0px 0px;
-	padding:65px 0px 0px 280px;
+	padding:70px 0px 0px 280px;
 }
 
 .mainmenu li {
-	display:block; float:left; width:231px;
+	display:block; float:left;
 	/*background:url(../images/menubg.jpg) left top repeat-x;*/
 	list-style:none; text-align:center;
-	padding: 7px 0px 0px 0px; height:203px;
-	margin: 0px 0px 0px 1px;
+	padding: 60px 0px 0px 60px;
+	margin: 50px 10px 10px 70px;
+	height: 100px;
+	width: 100px;
+	background: #F5F5F5;
+	border: 1px solid #ffffff;
+	opacity: 0.5;
+	border-radius: 100px;
 }
 
-.mainmenu li.last{width:253px;}
+.mainmenu li:hover{
+	background-color:#185FA1;
+}
+
 .mainmenu li a{
-	font-size:14px;
+	font-size:12px;
 	color:#185FA1;
 	border-bottom:1px solid #BF5A14;
 	font-weight:bold;
@@ -274,6 +283,7 @@ a:hover {
 
 .mainmenu li a:hover {
 	color: #BF5A14;
+	background: #eeeeee;
 	border-bottom:2px solid #BF5A14;
 	text-decoration:none;
 }
