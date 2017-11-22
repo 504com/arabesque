@@ -11,11 +11,11 @@ body {
 
 #container {
 	width:951px;
-	margin:63px auto;
+	margin:65px auto;
 	/* background-color: #FFFAFA; */
-	background-color: #ffffff;
+	background-color: transparent;
 	border: double;
-	border-color: #aaaaaa;
+	border-color: transparent;
 }
 
 #main:after {
@@ -97,6 +97,7 @@ body {
 	height:232px;
 	border-bottom:0px solid #E7E7E7;
 	text-align: center;
+	background-color: transparent;
 }
 
 .workzone {
@@ -259,11 +260,11 @@ a:hover {
 	display:block; float:left;
 	/*background:url(../images/menubg.jpg) left top repeat-x;*/
 	list-style:none; text-align:center;
-	padding: 60px 0px 0px 60px;
-	margin: 50px 10px 10px 70px;
-	height: 100px;
-	width: 100px;
-	background: #F5F5F5;
+	padding: 60px 30px 0px 30px;
+	margin: 60px 10px 0px 80px;
+	height: 80px;
+	width: 80px;
+	background: #f3f3f3;
 	border: 1px solid #ffffff;
 	opacity: 0.5;
 	border-radius: 100px;
