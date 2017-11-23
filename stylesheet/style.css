@@ -3,7 +3,7 @@
 body {
 	font:11px Arial, Helvetica, sans-seri;
 	color:#565656;
-	background:#f3f3f3 url(../images/bg1.png) left top repeat-x;
+	background:#f3f3f3 url(../images/bg.png) left top repeat-x;
 	margin:0px;
 	padding:0px;
 
@@ -11,7 +11,7 @@ body {
 
 #container {
 	width:951px;
-	margin:65px auto;
+	margin:0px auto;
 	/* background-color: #FFFAFA; */
 	background-color: transparent;
 	border: double;
@@ -21,7 +21,7 @@ body {
 #main:after {
 	background: url(../images/fond/fond_1.png) repeat;
 	content: "";
-	top: 400px;
+	top: 338px;
 	left: 0px;
 	bottom: -400px;
 	right: 0px;
@@ -94,8 +94,8 @@ body {
 
 
 .banner {
-	height:232px;
-	border-bottom:0px solid #E7E7E7;
+	height:272px;
+	border:0px solid #000000;
 	text-align: center;
 	background-color: transparent;
 }
