@@ -2,24 +2,27 @@
 
 body {
 	font:11px Arial, Helvetica, sans-seri;
+	background: url("../images/banner_v2/bg_cercle.png") no-repeat;
 	color:#565656;
-	background:#f3f3f3 url(../images/bg.png) left top repeat-x;
 	margin:0px;
 	padding:0px;
 
 }
-
+#backheader {
+	/* background-color: #FFFAFA; */
+	width:1515px;
+	border:2px solid #111111;
+}
 #container {
 	width:951px;
-	margin:0px auto;
+	margin:80px auto;
 	/* background-color: #FFFAFA; */
 	background-color: transparent;
-	border: double;
-	border-color: transparent;
+	border:1px solid #000000;
 }
 
 #main:after {
-	background: url(../images/fond/fond_1.png) repeat;
+	/*background: url(../images/fond/fond_1.png) repeat;*/
 	content: "";
 	top: 338px;
 	left: 0px;
@@ -94,8 +97,8 @@ body {
 
 
 .banner {
-	height:272px;
-	border:0px solid #000000;
+	height:250px;
+	border:1px double #ffffff;
 	text-align: center;
 	background-color: transparent;
 }
@@ -245,47 +248,33 @@ a:hover {
 	text-decoration:none;
 }
 
-.mainmenu {
-	float:left; width:950px; height:30px;
-	padding:0px 0px 0px 0px;
+.mainmenu {float:left; width:950px; height:32px;
+	padding:0px 0px 1px 0px;
+
 }
 
-.mainmenu ul {
-	float:left; width:950px;
-	margin:0px 0px 0px 0px;
-	padding:70px 0px 0px 280px;
+.mainmenu ul {float:left; width:950px;
+	margin:2px 0px 0px 2px;
+	padding:1px 0px 0px 0px;
 }
 
 .mainmenu li {
-	display:block; float:left;
-	/*background:url(../images/menubg.jpg) left top repeat-x;*/
+	display:block; float:left; width:185px;
+	background:url(../images/menubg.jpg) left top repeat-x;
 	list-style:none; text-align:center;
-	padding: 60px 30px 0px 30px;
-	margin: 60px 10px 0px 80px;
-	height: 80px;
-	width: 80px;
-	background: #f3f3f3;
-	border: 1px solid #ffffff;
-	opacity: 0.5;
-	border-radius: 100px;
+	padding:7px 0px 0px 0px; height:25px;
+	margin:0px 0px 0px 0px;
 }
-
-.mainmenu li:hover{
-	background-color:#185FA1;
-}
-
+.mainmenu li.last{width:206px;}
 .mainmenu li a{
 	font-size:12px;
-	color:#185FA1;
-	border-bottom:1px solid #BF5A14;
+	color:#ffffff;
 	font-weight:bold;
 	text-decoration:none;
 }
 
 .mainmenu li a:hover {
-	color: #BF5A14;
-	background: #eeeeee;
-	border-bottom:2px solid #BF5A14;
+	color: #ebebeb;;
 	text-decoration:none;
 }
 

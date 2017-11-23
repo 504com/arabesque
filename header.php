@@ -12,16 +12,7 @@
     <script type="text/javascript" src="js/lancement.js"></script><!-- permet le lancement de la fonction de scroll -->
 </head>
 <body>
-
 <div id="main">
-    <div class="mainmenu">
-        <ul>
-            <li><a href="presentation.php#presentation">Pr&eacute;sentation</a></li>
-            <li><a href="services.php#metier">M&eacute;tiers</a></li>
-            <li><a href="services.php#metier">Services</a></li>
-            <li  class="last"><a href="contact.php#contact">Contact</a></li>
-        </ul>
-    </div>
     <div class="clear"></div>
 <div id="container">
     <div class="headerzone">
@@ -30,6 +21,15 @@
       </div>
       <div class="clear"></div>
       <div class="clear"></div>
+    <div class="mainmenu">
+        <ul>
+            <li><a href="index.php">Accueil</a></li>
+            <li><a href="presentation.php#presentation">Pr&eacute;sentation</a></li>
+            <li><a href="services.php#metier">M&eacute;tiers</a></li>
+            <li><a href="services.php#metier">Services</a></li>
+            <li  class="last"><a href="contact.php#contact">Contact</a></li>
+        </ul>
+    </div>
     <div class="banner"><img id="banner" src="images/banner_v2/banner_02.png" alt="" /></div>
     <div class="clear"></div>
     <div class="workzone">
