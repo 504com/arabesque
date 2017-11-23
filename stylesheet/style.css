@@ -3,7 +3,7 @@
 body {
 	font:11px Arial, Helvetica, sans-seri;
 	color:#565656;
-	background:#f3f3f3 url(../images/bg1.png) left top repeat-x;
+	background:#f3f3f3 url(../images/bg.png) left top repeat-x;
 	margin:0px;
 	padding:0px;
 
@@ -11,17 +11,17 @@ body {
 
 #container {
 	width:951px;
-	margin:63px auto;
+	margin:0px auto;
 	/* background-color: #FFFAFA; */
-	background-color: #ffffff;
+	background-color: transparent;
 	border: double;
-	border-color: #aaaaaa;
+	border-color: transparent;
 }
 
 #main:after {
 	background: url(../images/fond/fond_1.png) repeat;
 	content: "";
-	top: 400px;
+	top: 338px;
 	left: 0px;
 	bottom: -400px;
 	right: 0px;
@@ -94,9 +94,10 @@ body {
 
 
 .banner {
-	height:232px;
-	border-bottom:0px solid #E7E7E7;
+	height:272px;
+	border:0px solid #000000;
 	text-align: center;
+	background-color: transparent;
 }
 
 .workzone {
@@ -259,11 +260,11 @@ a:hover {
 	display:block; float:left;
 	/*background:url(../images/menubg.jpg) left top repeat-x;*/
 	list-style:none; text-align:center;
-	padding: 60px 0px 0px 60px;
-	margin: 50px 10px 10px 70px;
-	height: 100px;
-	width: 100px;
-	background: #F5F5F5;
+	padding: 60px 30px 0px 30px;
+	margin: 60px 10px 0px 80px;
+	height: 80px;
+	width: 80px;
+	background: #f3f3f3;
 	border: 1px solid #ffffff;
 	opacity: 0.5;
 	border-radius: 100px;
